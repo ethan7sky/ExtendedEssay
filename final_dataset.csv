@@ -1,0 +1,301 @@
+problem_id,problem_url,time_limit,memory_limit,word_count,num_numbers,num_operations,num_unique_variables,bin_1_26,bin_27_500,bin_501_5000,bin_5001_1e6,bin_large,tags,complexity_counts,total_examples
+0005_D,https://codeforces.com/contest/5/problem/D,1,64,288,24,4,5,0,0,0,4,0,"implementation,math",{'constant': 66},66
+0084_A,https://codeforces.com/contest/84/problem/A,2,256,313,24,2,2,0,0,0,0,1,"math,number theory",{'constant': 71},71
+0122_A,https://codeforces.com/contest/122/problem/A,2,256,190,18,0,2,0,0,1,0,0,"brute force,number theory",{'constant': 71},71
+0199_A,https://codeforces.com/contest/199/problem/A,2,256,245,26,4,5,0,0,0,0,1,"brute force,constructive algorithms,implementation,number theory",{'constant': 68},68
+0235_A,https://codeforces.com/contest/235/problem/A,2,256,220,18,5,3,0,0,0,1,0,number theory,{'constant': 70},70
+0267_A,https://codeforces.com/contest/267/problem/A,1,256,160,22,1,3,0,0,1,0,0,"math,number theory",{'constant': 71},71
+0313_A,https://codeforces.com/contest/313/problem/A,2,256,322,16,9,2,0,0,0,0,0,"implementation,number theory",{'constant': 71},71
+0343_A,https://codeforces.com/contest/343/problem/A,1,256,317,18,8,3,0,0,0,0,2,"math,number theory",{'constant': 66},66
+0472_A,https://codeforces.com/contest/472/problem/A,1,256,262,33,4,5,0,0,0,1,0,"math,number theory",{'constant': 71},71
+0483_A,https://codeforces.com/contest/483/problem/A,1,256,362,29,7,6,0,0,0,0,0,"brute force,implementation,math,number theory",{'constant': 71},71
+0630_A,https://codeforces.com/contest/630/problem/A,0,64,163,13,3,3,0,0,0,0,1,number theory,{'constant': 67},67
+0911_C,https://codeforces.com/contest/911/problem/C,2,256,412,43,9,4,0,0,0,0,0,"brute force,constructive algorithms",{'constant': 23},23
+0912_A,https://codeforces.com/contest/912/problem/A,1,256,276,25,2,6,0,0,0,0,5,implementation,{'constant': 42},42
+0913_A,https://codeforces.com/contest/913/problem/A,1,256,167,31,9,5,0,0,0,0,2,"implementation,math",{'constant': 39},39
+0915_B,https://codeforces.com/contest/915/problem/B,1,256,461,35,5,6,0,1,0,0,0,implementation,{'constant': 21},21
+0964_A,https://codeforces.com/contest/964/problem/A,1,256,225,72,2,2,0,0,0,0,1,math,{'constant': 25},25
+0965_A,https://codeforces.com/contest/965/problem/A,1,256,229,18,1,6,0,0,0,4,0,math,{'constant': 23},23
+0975_B,https://codeforces.com/contest/975/problem/B,1,256,312,43,8,2,1,0,0,0,0,"brute force,implementation",{'constant': 23},23
+0979_A,https://codeforces.com/contest/979/problem/A,1,128,311,12,5,3,0,0,0,0,1,math,{'constant': 23},23
+0987_A,https://codeforces.com/contest/987/problem/A,1,256,301,14,0,3,2,0,0,0,0,implementation,{'constant': 22},22
+0991_A,https://codeforces.com/contest/991/problem/A,1,256,430,28,3,5,0,4,0,0,0,implementation,{'constant': 43},43
+0991_D,https://codeforces.com/contest/991/problem/D,1,256,260,27,1,2,0,0,0,0,0,"dp,greedy",{'constant': 22},22
+0994_C,https://codeforces.com/contest/994/problem/C,1,256,280,43,1,1,0,0,0,0,0,brute force,{'constant': 20},20
+1023_B,https://codeforces.com/contest/1023/problem/B,1,256,283,35,2,5,0,0,0,0,2,math,{'constant': 22},22
+1028_B,https://codeforces.com/contest/1028/problem/B,1,256,168,21,2,5,0,0,2,0,0,"constructive algorithms,math",{'constant': 23},23
+1033_A,https://codeforces.com/contest/1033/problem/A,1,256,634,43,0,6,0,0,1,0,0,"dfs and similar,graphs,implementation","{'constant': 23, 'nlogn': 1}",24
+1036_A,https://codeforces.com/contest/1036/problem/A,1,256,458,49,19,4,0,0,0,0,2,math,"{'constant': 23, 'logn': 2}",25
+1054_A,https://codeforces.com/contest/1054/problem/A,1,256,668,56,11,4,0,0,0,0,0,implementation,{'constant': 24},24
+1061_A,https://codeforces.com/contest/1061/problem/A,2,256,200,42,1,2,0,1,0,0,1,"greedy,implementation,math","{'constant': 24, 'linear': 3}",27
+1068_A,https://codeforces.com/contest/1068/problem/A,1,256,293,24,4,4,0,0,0,0,2,math,"{'constant': 24, 'logn': 2}",26
+1075_A,https://codeforces.com/contest/1075/problem/A,1,256,799,104,19,7,0,0,0,0,1,"implementation,math",{'constant': 25},25
+1080_A,https://codeforces.com/contest/1080/problem/A,1,256,205,17,1,3,0,0,0,0,2,math,{'constant': 43},43
+1080_B,https://codeforces.com/contest/1080/problem/B,1,256,443,70,31,5,0,0,1,0,0,math,{'constant': 22},22
+1080_C,https://codeforces.com/contest/1080/problem/C,1,256,622,86,2,7,0,0,1,0,2,implementation,{'constant': 22},22
+1100_C,https://codeforces.com/contest/1100/problem/C,2,256,319,31,14,7,0,2,0,0,0,"binary search,geometry,math",{'constant': 22},22
+1113_A,https://codeforces.com/contest/1113/problem/A,1,256,416,30,5,6,0,2,0,0,0,"dp,greedy,math","{'constant': 15, 'linear': 9, 'quadratic': 2}",26
+1180_A,https://codeforces.com/contest/1180/problem/A,1,256,194,20,7,4,0,1,0,0,0,"dp,implementation,math","{'constant': 22, 'linear': 10}",32
+1191_B,https://codeforces.com/contest/1191/problem/B,1,256,534,88,0,5,0,0,0,0,0,"brute force,implementation","{'constant': 4, 'linear': 9, 'nlogn': 19}",32
+0256_B,https://codeforces.com/contest/256/problem/B,2,256,296,24,9,5,0,0,0,0,2,"binary search,implementation,math",{'logn': 46},46
+0276_D,https://codeforces.com/contest/276/problem/D,1,256,225,15,11,8,0,0,0,0,0,"bitmasks,dp,greedy,implementation,math",{'logn': 207},207
+0287_B,https://codeforces.com/contest/287/problem/B,0,256,336,24,11,5,0,0,0,0,2,"binary search,math",{'logn': 145},145
+0338_A,https://codeforces.com/contest/338/problem/A,1,256,378,39,8,5,0,0,0,0,0,"greedy,math,number theory",{'logn': 52},52
+0713_B,https://codeforces.com/contest/713/problem/B,1,256,684,82,6,7,0,0,0,0,0,"binary search,constructive algorithms,interactive",{'logn': 30},30
+0817_C,https://codeforces.com/contest/817/problem/C,1,256,263,26,3,4,0,0,0,0,2,"binary search,brute force,dp,math",{'logn': 159},159
+0992_C,https://codeforces.com/contest/992/problem/C,1,256,339,35,14,4,0,0,0,0,2,math,{'logn': 235},235
+1019_B,https://codeforces.com/contest/1019/problem/B,1,256,602,62,15,3,0,1,0,0,0,"binary search,interactive",{'logn': 33},33
+1080_D,https://codeforces.com/contest/1080/problem/D,1,256,691,37,11,4,0,0,1,0,0,"constructive algorithms,implementation,math","{'logn': 79, 'constant': 3, 'linear': 9, 'nlogn': 1, 'quadratic': 3}",95
+1088_D,https://codeforces.com/contest/1088/problem/D,1,256,423,79,15,4,2,0,0,0,0,"bitmasks,constructive algorithms,implementation,interactive","{'logn': 29, 'constant': 19}",48
+1177_B,https://codeforces.com/contest/1177/problem/B,1,256,105,12,4,3,0,0,0,0,1,"binary search,divide and conquer,implementation","{'logn': 173, 'constant': 19}",192
+1195_B,https://codeforces.com/contest/1195/problem/B,2,256,528,43,10,3,0,0,0,0,2,"binary search,brute force,math","{'logn': 170, 'constant': 17, 'linear': 8}",195
+0001_B,https://codeforces.com/contest/1/problem/B,10,64,260,24,5,7,0,0,0,1,0,"implementation,math",{'linear': 55},55
+0017_A,https://codeforces.com/contest/17/problem/A,2,64,275,27,4,3,0,0,2,0,0,"brute force,math,number theory",{'linear': 59},59
+0025_A,https://codeforces.com/contest/25/problem/A,2,256,172,18,1,2,0,1,0,0,0,brute force,{'linear': 61},61
+0046_C,https://codeforces.com/contest/46/problem/C,2,256,351,12,1,3,0,0,1,0,0,two pointers,{'linear': 51},51
+0224_B,https://codeforces.com/contest/224/problem/B,2,256,376,49,12,8,0,0,0,2,0,"bitmasks,implementation,two pointers",{'linear': 61},61
+0468_B,https://codeforces.com/contest/468/problem/B,1,256,277,34,7,8,0,0,0,1,2,"2-sat,dfs and similar,dsu,graph matchings,greedy",{'linear': 60},60
+0527_B,https://codeforces.com/contest/527/problem/B,2,256,457,26,4,7,0,1,0,0,0,greedy,"{'linear': 17, 'quadratic': 1}",18
+0608_A,https://codeforces.com/contest/608/problem/A,1,256,377,66,5,6,0,1,1,0,0,"implementation,math","{'linear': 12, 'nlogn': 1}",13
+0608_B,https://codeforces.com/contest/608/problem/B,2,256,391,61,58,5,0,0,0,0,0,"combinatorics,strings",{'linear': 16},16
+0608_C,https://codeforces.com/contest/608/problem/C,2,256,368,42,4,5,0,1,0,0,0,dp,"{'linear': 15, 'nlogn': 2}",17
+0701_C,https://codeforces.com/contest/701/problem/C,2,256,406,20,2,5,0,1,0,0,0,"binary search,strings,two pointers",{'linear': 61},61
+0903_F,https://codeforces.com/contest/903/problem/F,1,256,385,63,35,4,1,0,1,0,0,"bitmasks,dp",{'linear': 4},4
+0909_A,https://codeforces.com/contest/909/problem/A,2,256,295,4,2,4,0,0,0,0,0,"brute force,greedy,sortings",{'linear': 12},12
+0909_B,https://codeforces.com/contest/909/problem/B,2,256,182,12,1,2,0,1,0,0,0,"constructive algorithms,math",{'linear': 12},12
+0909_D,https://codeforces.com/contest/909/problem/D,2,256,341,7,4,2,0,0,0,0,0,"data structures,greedy,implementation",{'linear': 4},4
+0913_B,https://codeforces.com/contest/913/problem/B,1,256,279,28,6,7,0,0,0,0,1,"implementation,trees",{'linear': 12},12
+0914_C,https://codeforces.com/contest/914/problem/C,1,256,299,38,5,4,0,0,1,0,0,"brute force,combinatorics,dp",{'linear': 12},12
+0924_C,https://codeforces.com/contest/924/problem/C,1,256,342,38,9,5,0,0,0,1,0,"data structures,dp,greedy",{'linear': 12},12
+0958_C1,https://codeforces.com/contest/958/problem/C1,1,256,389,37,2,6,1,1,0,0,0,brute force,{'linear': 12},12
+0958_D1,https://codeforces.com/contest/958/problem/D1,5,256,335,23,16,5,0,1,0,0,0,"expression parsing,math",{'linear': 12},12
+0959_C,https://codeforces.com/contest/959/problem/C,2,256,522,53,6,4,0,0,0,1,0,"constructive algorithms,trees",{'linear': 12},12
+0961_B,https://codeforces.com/contest/961/problem/B,1,256,426,32,9,6,0,0,0,0,0,"data structures,dp,implementation,two pointers",{'linear': 12},12
+0962_A,https://codeforces.com/contest/962/problem/A,2,256,306,34,2,2,0,1,0,0,0,implementation,{'linear': 12},12
+0964_B,https://codeforces.com/contest/964/problem/B,1,256,361,54,16,9,0,0,5,0,0,math,{'linear': 12},12
+0967_A,https://codeforces.com/contest/967/problem/A,1,256,377,78,0,7,1,3,0,0,0,implementation,{'linear': 12},12
+0975_D,https://codeforces.com/contest/975/problem/D,2,256,673,108,50,17,0,0,0,1,0,"geometry,math",{'linear': 12},12
+0976_A,https://codeforces.com/contest/976/problem/A,1,256,311,30,0,4,0,1,0,0,0,implementation,{'linear': 12},12
+0978_B,https://codeforces.com/contest/978/problem/B,1,256,346,15,0,3,0,1,0,0,0,"greedy,strings",{'linear': 12},12
+0979_B,https://codeforces.com/contest/979/problem/B,1,256,571,23,3,3,0,0,0,0,1,greedy,{'linear': 12},12
+0980_B,https://codeforces.com/contest/980/problem/B,1,256,333,30,3,4,1,1,0,0,0,constructive algorithms,{'linear': 12},12
+0981_A,https://codeforces.com/contest/981/problem/A,1,256,344,15,8,4,0,0,0,0,0,"brute force,implementation,strings",{'linear': 12},12
+0981_C,https://codeforces.com/contest/981/problem/C,1,256,439,42,2,3,0,0,0,1,0,"implementation,trees",{'linear': 12},12
+0990_A,https://codeforces.com/contest/990/problem/A,2,256,385,35,1,5,0,2,0,0,2,"implementation,math",{'linear': 12},12
+0990_C,https://codeforces.com/contest/990/problem/C,2,256,433,58,22,6,1,0,0,0,0,implementation,{'linear': 12},12
+0992_A,https://codeforces.com/contest/992/problem/A,1,256,281,33,12,2,0,0,0,1,0,"implementation,sortings",{'linear': 12},12
+0996_B,https://codeforces.com/contest/996/problem/B,1,256,379,97,3,2,0,0,0,1,0,"binary search,math","{'linear': 12, 'nlogn': 1}",13
+0999_D,https://codeforces.com/contest/999/problem/D,3,256,297,48,9,5,1,0,0,0,0,"data structures,greedy,implementation",{'linear': 12},12
+1000_A,https://codeforces.com/contest/1000/problem/A,2,256,446,15,11,5,0,1,0,0,0,"greedy,implementation","{'linear': 61, 'quadratic': 1}",62
+1000_B,https://codeforces.com/contest/1000/problem/B,1,256,571,66,17,5,0,0,0,1,1,greedy,{'linear': 13},13
+1004_A,https://codeforces.com/contest/1004/problem/A,1,256,374,41,7,3,0,1,0,0,1,implementation,{'linear': 61},61
+1004_B,https://codeforces.com/contest/1004/problem/B,1,256,460,63,16,3,0,0,2,0,0,"constructive algorithms,greedy,implementation,math",{'linear': 12},12
+1005_D,https://codeforces.com/contest/1005/problem/D,3,256,420,65,15,3,0,0,0,0,0,"dp,greedy,number theory",{'linear': 12},12
+1009_A,https://codeforces.com/contest/1009/problem/A,1,256,543,59,9,5,0,0,2,0,0,implementation,{'linear': 12},12
+1009_B,https://codeforces.com/contest/1009/problem/B,1,256,332,49,5,5,0,0,0,0,0,"greedy,implementation",{'linear': 12},12
+1009_C,https://codeforces.com/contest/1009/problem/C,2,256,359,58,32,7,0,0,0,2,0,"greedy,math",{'linear': 12},12
+1009_E,https://codeforces.com/contest/1009/problem/E,1,256,606,103,30,5,0,0,0,1,0,"combinatorics,math,probabilities",{'linear': 12},12
+1010_A,https://codeforces.com/contest/1010/problem/A,1,256,823,100,41,7,0,0,2,0,0,"binary search,math","{'linear': 13, 'nlogn': 1}",14
+1011_A,https://codeforces.com/contest/1011/problem/A,1,256,479,41,14,10,0,0,0,0,0,"greedy,implementation,sortings",{'linear': 13},13
+1013_B,https://codeforces.com/contest/1013/problem/B,1,256,301,34,4,5,0,2,0,0,0,greedy,{'linear': 12},12
+1017_A,https://codeforces.com/contest/1017/problem/A,1,256,349,60,2,3,0,0,1,0,0,implementation,{'linear': 12},12
+1017_C,https://codeforces.com/contest/1017/problem/C,1,256,630,143,3,5,0,0,0,1,0,"constructive algorithms,greedy",{'linear': 12},12
+1023_A,https://codeforces.com/contest/1023/problem/A,1,256,463,14,14,7,2,0,0,0,0,"brute force,implementation,strings",{'linear': 12},12
+1023_C,https://codeforces.com/contest/1023/problem/C,2,256,283,19,6,5,0,0,0,0,0,greedy,{'linear': 12},12
+1027_D,https://codeforces.com/contest/1027/problem/D,2,256,540,85,5,4,1,0,0,0,0,"dfs and similar,graphs",{'linear': 12},12
+1029_C,https://codeforces.com/contest/1029/problem/C,3,256,563,146,6,4,1,0,0,0,0,"greedy,math,sortings",{'linear': 12},12
+1029_E,https://codeforces.com/contest/1029/problem/E,1,256,323,68,4,3,1,0,0,0,0,"dp,graphs,greedy",{'linear': 8},8
+1032_C,https://codeforces.com/contest/1032/problem/C,1,256,387,86,14,3,0,0,0,1,0,"constructive algorithms,dp","{'linear': 12, 'quadratic': 7}",19
+1036_B,https://codeforces.com/contest/1036/problem/B,1,256,405,83,16,3,0,0,0,1,0,math,"{'linear': 3, 'constant': 19}",22
+1037_C,https://codeforces.com/contest/1037/problem/C,1,256,369,58,18,5,0,0,0,1,0,"dp,greedy,strings",{'linear': 12},12
+1037_F,https://codeforces.com/contest/1037/problem/F,2,256,258,73,16,7,0,0,0,0,0,"combinatorics,data structures,math",{'linear': 3},3
+1038_A,https://codeforces.com/contest/1038/problem/A,2,256,284,14,2,8,1,0,0,1,0,"implementation,strings",{'linear': 12},12
+1038_D,https://codeforces.com/contest/1038/problem/D,2,256,298,41,11,4,0,1,0,0,0,"dp,greedy,implementation","{'linear': 12, 'nlogn': 2}",14
+1054_B,https://codeforces.com/contest/1054/problem/B,1,256,544,95,10,4,0,1,0,0,0,implementation,{'linear': 12},12
+1056_D,https://codeforces.com/contest/1056/problem/D,1,256,409,38,3,8,0,0,0,1,0,"constructive algorithms,dfs and similar,dp,graphs,greedy,sortings,trees","{'linear': 12, 'nlogn': 9, 'quadratic': 6}",27
+1059_C,https://codeforces.com/contest/1059/problem/C,2,256,235,34,1,5,0,0,0,1,0,"constructive algorithms,math","{'linear': 10, 'constant': 1, 'logn': 6, 'nlogn': 15}",32
+1062_C,https://codeforces.com/contest/1062/problem/C,1,256,475,55,15,4,0,2,0,0,0,"greedy,implementation,math",{'linear': 12},12
+1062_D,https://codeforces.com/contest/1062/problem/D,2,256,292,30,24,5,0,1,0,0,0,"dfs and similar,graphs,implementation,math","{'linear': 12, 'nlogn': 5, 'quadratic': 1}",18
+1067_B,https://codeforces.com/contest/1067/problem/B,1,256,350,66,14,6,0,0,0,1,1,"dfs and similar,graphs,shortest paths","{'linear': 4, 'nlogn': 8}",12
+1067_C,https://codeforces.com/contest/1067/problem/C,1,256,333,62,9,3,0,0,1,0,0,constructive algorithms,"{'linear': 12, 'constant': 1}",13
+1073_B,https://codeforces.com/contest/1073/problem/B,1,256,441,80,5,2,1,0,0,0,0,"implementation,math","{'linear': 12, 'quadratic': 1}",13
+1075_B,https://codeforces.com/contest/1075/problem/B,1,256,568,61,13,4,0,0,0,2,0,"implementation,sortings","{'linear': 12, 'nlogn': 4, 'quadratic': 4}",20
+1082_D,https://codeforces.com/contest/1082/problem/D,2,256,400,65,5,6,0,1,0,0,0,"constructive algorithms,graphs,implementation","{'linear': 12, 'nlogn': 6, 'quadratic': 4}",22
+1082_E,https://codeforces.com/contest/1082/problem/E,2,256,220,37,10,6,2,0,0,0,0,"binary search,dp,greedy","{'linear': 12, 'constant': 1}",13
+1086_B,https://codeforces.com/contest/1086/problem/B,1,256,438,61,15,6,0,0,0,1,1,"greedy,implementation,trees",{'linear': 11},11
+1088_E,https://codeforces.com/contest/1088/problem/E,1,256,395,53,21,8,1,0,0,0,0,"dp,greedy,math,trees",{'linear': 3},3
+1091_F,https://codeforces.com/contest/1091/problem/F,1,256,535,44,4,7,0,0,0,1,0,"constructive algorithms,greedy","{'linear': 9, 'nlogn': 1}",10
+1092_D1,https://codeforces.com/contest/1092/problem/D1,2,256,466,66,6,3,1,0,0,0,0,"greedy,implementation,math",{'linear': 13},13
+1093_C,https://codeforces.com/contest/1093/problem/C,2,256,351,40,20,4,1,0,0,0,0,greedy,{'linear': 11},11
+1159_A,https://codeforces.com/contest/1159/problem/A,1,256,422,25,20,4,0,1,0,0,0,"implementation,math","{'linear': 14, 'quadratic': 2}",16
+1159_B,https://codeforces.com/contest/1159/problem/B,1,256,413,84,29,6,0,1,0,0,0,"implementation,math",{'linear': 13},13
+1159_C,https://codeforces.com/contest/1159/problem/C,1,256,523,59,10,4,0,2,0,0,0,"greedy,implementation,math","{'linear': 8, 'nlogn': 22, 'cubic': 1}",31
+1159_D,https://codeforces.com/contest/1159/problem/D,1,256,440,47,11,8,0,0,0,0,0,"brute force,greedy,constructive algorithms,math,strings","{'linear': 12, 'constant': 4, 'quadratic': 2}",18
+1179_A,https://codeforces.com/contest/1179/problem/A,6,256,500,115,9,7,1,0,0,1,0,"data structures,implementation",{'linear': 12},12
+1180_B,https://codeforces.com/contest/1180/problem/B,1,256,455,74,22,3,0,0,0,1,0,"greedy,implementation","{'linear': 14, 'nlogn': 1}",15
+1180_C,https://codeforces.com/contest/1180/problem/C,6,256,737,205,9,8,1,0,0,1,0,"data structures,implementation",{'linear': 13},13
+1190_A,https://codeforces.com/contest/1190/problem/A,1,256,536,71,3,5,0,0,0,1,1,"implementation,two pointers",{'linear': 12},12
+1190_B,https://codeforces.com/contest/1190/problem/B,1,256,574,59,5,3,0,0,0,1,0,games,"{'linear': 14, 'nlogn': 19}",33
+1190_C,https://codeforces.com/contest/1190/problem/C,1,256,438,28,6,3,0,0,0,0,0,"brute force,games,greedy",{'linear': 9},9
+1191_C,https://codeforces.com/contest/1191/problem/C,1,256,660,115,3,6,0,0,0,1,1,implementation,"{'linear': 12, 'nlogn': 1}",13
+1191_D,https://codeforces.com/contest/1191/problem/D,1,256,508,36,5,3,0,0,0,1,0,games,"{'linear': 10, 'nlogn': 19}",29
+1197_A,https://codeforces.com/contest/1197/problem/A,2,256,400,55,15,4,0,1,0,1,0,"greedy,math,sortings","{'linear': 5, 'nlogn': 20, 'constant': 1}",26
+1197_B,https://codeforces.com/contest/1197/problem/B,1,256,435,33,7,4,0,0,0,0,1,"greedy,implementation","{'linear': 14, 'nlogn': 5}",19
+1515_B,https://codeforces.com/contest/1515/problem/B,2,256,209,15,2,4,0,0,0,1,1,"brute force,geometry,math,number theory","{'linear': 52, 'constant': 19, 'logn': 1}",72
+0015_A,https://codeforces.com/contest/15/problem/A,2,64,308,27,9,6,0,0,2,0,0,"implementation,sortings",{'nlogn': 117},117
+0022_A,https://codeforces.com/contest/22/problem/A,2,256,161,16,2,2,0,1,0,0,0,brute force,{'nlogn': 69},69
+0135_A,https://codeforces.com/contest/135/problem/A,2,256,248,40,7,2,0,0,0,1,0,"greedy,implementation,sortings",{'nlogn': 70},70
+0160_A,https://codeforces.com/contest/160/problem/A,2,256,501,32,0,2,0,1,0,0,0,"greedy,sortings",{'nlogn': 70},70
+0166_A,https://codeforces.com/contest/166/problem/A,2,256,578,64,13,9,0,0,0,0,0,"binary search,implementation,sortings",{'nlogn': 70},70
+0169_A,https://codeforces.com/contest/169/problem/A,2,256,346,33,5,6,0,0,1,0,0,sortings,{'nlogn': 66},66
+0220_A,https://codeforces.com/contest/220/problem/A,2,256,330,22,4,2,0,0,0,1,0,"implementation,sortings",{'nlogn': 69},69
+0257_A,https://codeforces.com/contest/257/problem/A,2,256,447,37,27,5,0,3,0,0,0,"greedy,implementation,sortings",{'nlogn': 70},70
+0274_A,https://codeforces.com/contest/274/problem/A,2,256,216,27,9,6,0,0,0,1,1,"binary search,greedy,sortings",{'nlogn': 69},69
+0527_C,https://codeforces.com/contest/527/problem/C,2,256,398,36,3,8,0,3,0,0,0,"binary search,data structures,implementation",{'nlogn': 10},10
+0528_A,https://codeforces.com/contest/528/problem/A,2,256,398,36,3,8,0,3,0,0,0,"data structures,implementation",{'nlogn': 5},5
+0528_B,https://codeforces.com/contest/528/problem/B,2,256,346,20,10,8,0,1,0,0,0,"dp,greedy",{'nlogn': 23},23
+0903_D,https://codeforces.com/contest/903/problem/D,2,256,273,56,3,5,0,0,0,1,0,"data structures,math",{'nlogn': 50},50
+0912_C,https://codeforces.com/contest/912/problem/C,1,256,641,54,14,7,0,0,0,2,0,"brute force,greedy,sortings",{'nlogn': 3},3
+0913_D,https://codeforces.com/contest/913/problem/D,2,256,567,68,7,9,0,0,0,1,1,"binary search,brute force,data structures,greedy,sortings",{'nlogn': 15},15
+0915_E,https://codeforces.com/contest/915/problem/E,1,256,405,39,10,7,0,0,0,1,1,"data structures,implementation,sortings",{'nlogn': 3},3
+0915_F,https://codeforces.com/contest/915/problem/F,4,256,210,22,3,8,0,0,0,1,0,"data structures,dsu,graphs,trees",{'nlogn': 3},3
+0957_C,https://codeforces.com/contest/957/problem/C,1,256,451,54,13,10,0,0,0,1,1,"binary search,greedy,math,two pointers",{'nlogn': 16},16
+0958_B2,https://codeforces.com/contest/958/problem/B2,3,256,379,32,6,6,0,0,0,1,0,"data structures,dfs and similar,graphs,greedy,trees",{'nlogn': 4},4
+0961_D,https://codeforces.com/contest/961/problem/D,2,256,224,26,8,6,0,0,0,1,0,geometry,{'nlogn': 21},21
+0975_C,https://codeforces.com/contest/975/problem/C,2,256,409,54,21,4,0,2,0,0,0,binary search,{'nlogn': 17},17
+0976_C,https://codeforces.com/contest/976/problem/C,2,256,272,65,11,6,0,0,0,1,0,"greedy,implementation,sortings",{'nlogn': 21},21
+0980_E,https://codeforces.com/contest/980/problem/E,3,256,375,65,11,5,0,0,0,0,0,"data structures,greedy,trees",{'nlogn': 3},3
+0981_B,https://codeforces.com/contest/981/problem/B,2,256,503,76,20,3,0,0,0,2,0,sortings,{'nlogn': 19},19
+0982_B,https://codeforces.com/contest/982/problem/B,2,256,459,45,7,4,0,1,0,0,0,"data structures,greedy,implementation",{'nlogn': 21},21
+0986_B,https://codeforces.com/contest/986/problem/B,2,256,317,18,4,2,0,0,0,1,0,"combinatorics,math",{'nlogn': 21},21
+0988_B,https://codeforces.com/contest/988/problem/B,1,256,271,9,0,3,0,1,0,0,0,"sortings,strings",{'nlogn': 21},21
+0988_D,https://codeforces.com/contest/988/problem/D,4,256,295,52,24,4,1,0,0,0,0,"brute force,math",{'nlogn': 19},19
+0990_B,https://codeforces.com/contest/990/problem/B,2,256,596,161,15,5,1,0,0,1,0,"greedy,sortings",{'nlogn': 20},20
+0994_B,https://codeforces.com/contest/994/problem/B,1,256,397,62,8,3,0,0,0,1,0,"greedy,implementation,sortings",{'nlogn': 21},21
+0995_C,https://codeforces.com/contest/995/problem/C,2,256,299,57,33,6,0,0,0,1,0,"brute force,data structures,geometry,greedy,math,sortings",{'nlogn': 9},9
+1000_C,https://codeforces.com/contest/1000/problem/C,3,256,283,47,5,6,1,0,0,0,0,"data structures,implementation,sortings",{'nlogn': 21},21
+1000_G,https://codeforces.com/contest/1000/problem/G,3,256,489,162,42,9,2,0,0,0,0,"data structures,dp,trees",{'nlogn': 3},3
+1005_C,https://codeforces.com/contest/1005/problem/C,3,256,371,78,4,5,0,0,0,1,0,"brute force,greedy,implementation",{'nlogn': 21},21
+1005_E1,https://codeforces.com/contest/1005/problem/E1,3,256,346,77,5,7,0,0,0,1,0,sortings,{'nlogn': 22},22
+1006_B,https://codeforces.com/contest/1006/problem/B,2,256,530,70,9,6,0,0,0,0,0,"greedy,implementation,sortings",{'nlogn': 19},19
+1011_B,https://codeforces.com/contest/1011/problem/B,1,256,412,61,2,5,0,2,0,0,0,"binary search,brute force,implementation","{'nlogn': 22, 'quadratic': 1}",23
+1015_C,https://codeforces.com/contest/1015/problem/C,1,256,486,59,24,4,0,0,0,1,1,sortings,{'nlogn': 21},21
+1027_C,https://codeforces.com/contest/1027/problem/C,2,256,480,82,24,5,0,0,0,1,0,greedy,{'nlogn': 21},21
+1029_D,https://codeforces.com/contest/1029/problem/D,2,256,255,62,5,7,1,0,0,0,1,"implementation,math",{'nlogn': 21},21
+1033_C,https://codeforces.com/contest/1033/problem/C,1,256,448,55,5,7,0,0,0,1,0,"brute force,dp,games","{'nlogn': 11, 'linear': 6, 'quadratic': 16}",33
+1037_D,https://codeforces.com/contest/1037/problem/D,2,256,391,50,3,7,1,0,0,0,0,"dfs and similar,graphs,shortest paths,trees","{'nlogn': 13, 'linear': 9, 'quadratic': 1}",23
+1054_D,https://codeforces.com/contest/1054/problem/D,1,256,427,66,10,5,0,2,0,0,0,"greedy,implementation","{'nlogn': 3, 'linear': 9}",12
+1061_B,https://codeforces.com/contest/1061/problem/B,2,256,359,48,2,3,0,1,0,0,1,"greedy,implementation,sortings",{'nlogn': 25},25
+1061_D,https://codeforces.com/contest/1061/problem/D,2,256,520,84,25,7,0,0,0,1,0,"data structures,greedy,implementation,sortings",{'nlogn': 10},10
+1075_C,https://codeforces.com/contest/1075/problem/C,1,256,1018,102,12,5,0,0,0,2,0,two pointers,{'nlogn': 23},23
+1080_E,https://codeforces.com/contest/1080/problem/E,1,256,625,150,0,7,0,2,0,0,0,strings,{'nlogn': 3},3
+1084_F,https://codeforces.com/contest/1084/problem/F,3,256,645,122,8,10,2,0,0,0,0,"data structures,trees",{'nlogn': 3},3
+1086_A,https://codeforces.com/contest/1086/problem/A,1,256,366,37,3,7,0,0,0,0,0,"greedy,implementation","{'nlogn': 3, 'constant': 10, 'linear': 1, 'quadratic': 1}",15
+1096_F,https://codeforces.com/contest/1096/problem/F,2,256,532,108,28,8,1,0,0,0,0,"dp,math,probabilities",{'nlogn': 10},10
+1098_C,https://codeforces.com/contest/1098/problem/C,1,256,402,46,9,6,0,0,0,1,1,"binary search,constructive algorithms,dfs and similar,graphs,greedy,trees","{'nlogn': 4, 'linear': 5}",9
+1099_F,https://codeforces.com/contest/1099/problem/F,3,512,762,135,28,9,0,0,0,1,1,"binary search,data structures,dfs and similar,dp,games,trees",{'nlogn': 3},3
+1100_E,https://codeforces.com/contest/1100/problem/E,2,256,525,83,2,4,0,2,0,0,0,"binary search,dfs and similar,graphs",{'nlogn': 11},11
+1197_C,https://codeforces.com/contest/1197/problem/C,2,256,276,69,16,4,0,0,0,0,0,"greedy,sortings",{'nlogn': 24},24
+0908_C,https://codeforces.com/contest/908/problem/C,2,256,340,38,10,7,2,0,0,0,0,"brute force,geometry,implementation,math",{'quadratic': 112},112
+0908_E,https://codeforces.com/contest/908/problem/E,2,256,230,36,7,7,1,0,0,0,0,"bitmasks,combinatorics,dp,math",{'quadratic': 10},10
+0908_G,https://codeforces.com/contest/908/problem/G,2,256,150,42,3,4,0,0,0,0,1,"dp,math",{'quadratic': 14},14
+0909_C,https://codeforces.com/contest/909/problem/C,2,256,360,11,4,4,0,0,1,0,0,dp,{'quadratic': 127},127
+0911_D,https://codeforces.com/contest/911/problem/D,2,256,473,103,6,9,0,0,1,1,0,"brute force,math",{'quadratic': 127},127
+0913_E,https://codeforces.com/contest/913/problem/E,3,256,340,22,19,10,2,0,0,0,0,"bitmasks,dp,shortest paths",{'quadratic': 7},7
+0913_F,https://codeforces.com/contest/913/problem/F,2,256,496,30,5,10,0,0,1,0,0,"dp,graphs,math,probabilities",{'quadratic': 2},2
+0915_D,https://codeforces.com/contest/915/problem/D,1,256,290,28,2,6,0,1,0,0,0,"dfs and similar,graphs",{'quadratic': 8},8
+0958_A1,https://codeforces.com/contest/958/problem/A1,1,256,362,12,0,2,1,0,0,0,0,implementation,{'quadratic': 30},30
+0961_A,https://codeforces.com/contest/961/problem/A,1,256,329,55,3,4,0,0,2,0,0,implementation,{'quadratic': 21},21
+0961_C,https://codeforces.com/contest/961/problem/C,1,256,281,30,5,5,0,1,0,0,0,"bitmasks,brute force,implementation",{'quadratic': 26},26
+0980_C,https://codeforces.com/contest/980/problem/C,1,256,432,62,5,4,0,1,0,1,0,"games,greedy",{'quadratic': 28},28
+0983_B,https://codeforces.com/contest/983/problem/B,2,512,265,83,5,8,0,1,1,0,0,dp,{'quadratic': 23},23
+0985_B,https://codeforces.com/contest/985/problem/B,3,256,378,22,9,5,0,0,2,0,0,implementation,{'quadratic': 23},23
+0987_C,https://codeforces.com/contest/987/problem/C,1,256,442,94,11,7,1,0,0,0,0,"brute force,dp,implementation",{'quadratic': 24},24
+0990_D,https://codeforces.com/contest/990/problem/D,2,256,411,17,7,9,0,0,1,0,0,"constructive algorithms,graphs,implementation",{'quadratic': 29},29
+0994_A,https://codeforces.com/contest/994/problem/A,1,256,331,57,3,3,2,0,0,0,0,implementation,{'quadratic': 23},23
+0995_B,https://codeforces.com/contest/995/problem/B,2,256,292,61,2,3,0,1,0,0,0,"greedy,implementation,math",{'quadratic': 22},22
+1003_C,https://codeforces.com/contest/1003/problem/C,4,256,419,35,10,7,0,0,0,0,0,"brute force,implementation,math",{'quadratic': 18},18
+1003_E,https://codeforces.com/contest/1003/problem/E,4,256,308,57,4,7,3,0,0,0,0,"constructive algorithms,graphs",{'quadratic': 21},21
+1015_B,https://codeforces.com/contest/1015/problem/B,1,256,396,28,9,6,0,1,0,0,0,implementation,{'quadratic': 18},18
+1015_E2,https://codeforces.com/contest/1015/problem/E2,3,256,519,47,44,9,0,0,2,0,0,"binary search,dp,greedy",{'quadratic': 22},22
+1027_E,https://codeforces.com/contest/1027/problem/E,2,256,281,24,1,4,0,1,0,0,0,"combinatorics,dp,math","{'quadratic': 6, 'cubic': 3}",9
+1027_F,https://codeforces.com/contest/1027/problem/F,4,256,282,39,7,2,0,0,0,1,0,"binary search,dfs and similar,dsu,graph matchings,graphs",{'quadratic': 3},3
+1028_A,https://codeforces.com/contest/1028/problem/A,1,256,219,23,2,9,0,2,0,0,0,implementation,{'quadratic': 26},26
+1029_A,https://codeforces.com/contest/1029/problem/A,1,256,212,9,2,8,0,2,0,0,0,"implementation,strings",{'quadratic': 28},28
+1030_C,https://codeforces.com/contest/1030/problem/C,1,256,210,32,6,2,0,1,0,0,0,implementation,{'quadratic': 22},22
+1054_C,https://codeforces.com/contest/1054/problem/C,1,256,627,67,11,6,0,0,1,0,0,"constructive algorithms,implementation","{'quadratic': 31, 'nlogn': 1}",32
+1059_B,https://codeforces.com/contest/1059/problem/B,2,256,384,26,0,4,0,0,2,0,0,implementation,{'quadratic': 32},32
+1086_C,https://codeforces.com/contest/1086/problem/C,5,256,439,19,12,8,1,0,0,1,0,"constructive algorithms,greedy,implementation,strings",{'quadratic': 3},3
+1097_G,https://codeforces.com/contest/1097/problem/G,3,512,578,150,14,8,0,1,0,1,0,"combinatorics,dp,trees",{'quadratic': 1},1
+1141_F2,https://codeforces.com/contest/1141/problem/F2,3,256,592,102,35,8,0,0,1,0,0,"data structures,greedy","{'quadratic': 106, 'cubic': 1}",107
+1179_B,https://codeforces.com/contest/1179/problem/B,1,256,515,58,15,6,0,0,0,0,0,constructive algorithms,{'quadratic': 31},31
+1196_D1,https://codeforces.com/contest/1196/problem/D1,2,256,469,35,15,11,0,0,1,0,0,implementation,"{'quadratic': 22, 'linear': 9}",31
+1196_D2,https://codeforces.com/contest/1196/problem/D2,2,256,422,32,16,11,1,0,0,0,0,"data structures,dp,implementation,two pointers","{'quadratic': 4, 'linear': 9}",13
+1197_D,https://codeforces.com/contest/1197/problem/D,2,256,288,103,49,6,2,0,0,0,1,"dp,greedy,math","{'quadratic': 36, 'linear': 1}",37
+1209_A,https://codeforces.com/contest/1209/problem/A,1,256,393,86,0,2,0,1,0,0,0,"greedy,implementation,math",{'quadratic': 183},183
+1523_C,https://codeforces.com/contest/1523/problem/C,2,256,604,100,4,4,1,0,1,0,0,"brute force,data structures,greedy,implementation,trees",{'quadratic': 97},97
+0023_A,https://codeforces.com/contest/23/problem/A,2,256,122,7,3,1,0,0,0,0,0,"brute force,greedy",{'cubic': 204},204
+0035_C,https://codeforces.com/contest/35/problem/C,2,64,365,28,3,8,1,0,2,0,0,"brute force,dfs and similar,shortest paths",{'cubic': 158},158
+0387_D,https://codeforces.com/contest/387/problem/D,1,256,453,35,7,6,0,1,1,0,0,graph matchings,{'cubic': 29},29
+0840_C,https://codeforces.com/contest/840/problem/C,2,256,244,60,7,5,0,1,0,0,0,"combinatorics,dp",{'cubic': 19},19
+0840_D,https://codeforces.com/contest/840/problem/D,2,512,227,43,4,7,1,0,0,2,0,"data structures,probabilities",{'cubic': 34},34
+1185_G2,https://codeforces.com/contest/1185/problem/G2,5,256,545,99,8,4,0,1,1,0,0,"combinatorics,dp",{'cubic': 18},18
+1187_G,https://codeforces.com/contest/1187/problem/G,4,512,746,64,5,7,0,5,0,0,0,"flows,graphs",{'cubic': 19},19
+1497_E2,https://codeforces.com/contest/1497/problem/E2,2,256,326,77,6,4,2,0,1,0,0,"data structures,dp,greedy,math,number theory,two pointers",{'cubic': 40},40
+1515_E,https://codeforces.com/contest/1515/problem/E,3,256,290,47,5,4,0,1,0,0,1,"combinatorics,dp,math","{'cubic': 77, 'quadratic': 3}",80
+1517_D,https://codeforces.com/contest/1517/problem/D,2,256,643,118,38,9,1,2,0,0,0,"dp,graphs,shortest paths",{'cubic': 263},263
+0008_C,https://codeforces.com/contest/8/problem/C,4,512,390,29,1,4,1,0,0,0,0,"bitmasks,dp",{'np': 96},96
+0011_D,https://codeforces.com/contest/11/problem/D,2,256,177,23,0,5,1,0,0,0,0,"bitmasks,dp,graphs",{'np': 87},87
+0016_E,https://codeforces.com/contest/16/problem/E,3,128,294,51,3,4,1,0,0,0,0,"bitmasks,dp,probabilities",{'np': 82},82
+0105_B,https://codeforces.com/contest/105/problem/B,2,256,564,52,9,8,2,0,0,1,0,"brute force,probabilities",{'np': 50},50
+0111_C,https://codeforces.com/contest/111/problem/C,2,256,253,11,4,8,0,2,0,0,0,"bitmasks,dp,dsu",{'np': 40},40
+0112_E,https://codeforces.com/contest/112/problem/E,2,256,253,11,4,8,0,2,0,0,0,"bitmasks,dp",{'np': 6},6
+0839_E,https://codeforces.com/contest/839/problem/E,2,256,428,65,5,8,0,1,1,0,0,"brute force,graphs,math,meet-in-the-middle",{'np': 28},28
+1102_F,https://codeforces.com/contest/1102/problem/F,4,256,375,66,13,7,1,0,0,1,0,"binary search,bitmasks,brute force,dp,graphs",{'np': 38},38
+1185_G1,https://codeforces.com/contest/1185/problem/G1,5,256,545,99,8,4,1,1,0,0,0,"bitmasks,combinatorics,dp",{'np': 65},65
+1209_E1,https://codeforces.com/contest/1209/problem/E1,3,256,293,52,5,5,1,2,0,0,0,"bitmasks,brute force,dp,greedy,sortings",{'np': 75},75
+1209_E2,https://codeforces.com/contest/1209/problem/E2,3,256,300,60,5,5,1,1,1,0,0,"bitmasks,dp,greedy,sortings",{'np': 32},32
+1238_E,https://codeforces.com/contest/1238/problem/E,1,256,388,37,49,6,1,0,0,1,0,"bitmasks,dp",{'np': 46},46
+1242_C,https://codeforces.com/contest/1242/problem/C,1,256,561,87,20,7,1,0,0,0,0,"bitmasks,dfs and similar,dp,graphs",{'np': 29},29
+1025_C,https://codeforces.com/contest/1025/problem/C,1,256,306,9,8,4,0,0,0,0,0,"constructive algorithms,implementation",{'linear': 9},9
+0008_E,https://codeforces.com/contest/8/problem/E,5,64,533,50,9,5,0,1,0,0,1,"dp,graphs",{'cubic': 3},3
+0888_F,https://codeforces.com/contest/888/problem/F,4,256,352,44,8,4,0,1,0,0,0,"dp,graphs",{'cubic': 1},1
+0999_F,https://codeforces.com/contest/999/problem/F,2,256,605,124,15,8,1,1,0,0,0,dp,{'cubic': 11},11
+1073_E,https://codeforces.com/contest/1073/problem/E,1,256,397,104,48,3,1,0,0,0,0,"bitmasks,combinatorics,dp,math",{'cubic': 4},4
+1082_G,https://codeforces.com/contest/1082/problem/G,2,256,446,83,18,7,0,0,2,0,0,"flows,graphs",{'cubic': 4},4
+1096_E,https://codeforces.com/contest/1096/problem/E,3,256,484,43,18,7,0,1,0,0,0,"combinatorics,dp,math,probabilities",{'cubic': 2},2
+1111_D,https://codeforces.com/contest/1111/problem/D,2,512,462,41,19,7,0,0,0,1,0,"combinatorics,dp,math",{'cubic': 2},2
+1303_E,https://codeforces.com/contest/1303/problem/E,2,256,381,40,18,9,0,1,0,0,0,"dp,strings",{'cubic': 23},23
+1312_E,https://codeforces.com/contest/1312/problem/E,2,256,341,83,4,2,0,1,0,0,0,"dp,greedy",{'cubic': 66},66
+1398_D,https://codeforces.com/contest/1398/problem/D,2,256,492,79,11,4,0,3,0,0,0,"dp,greedy,sortings",{'cubic': 132},132
+1437_F,https://codeforces.com/contest/1437/problem/F,4,1024,329,50,2,4,0,0,1,0,0,"combinatorics,dp,math,two pointers",{'cubic': 8},8
+0915_C,https://codeforces.com/contest/915/problem/C,1,256,190,18,3,2,0,0,0,0,2,"dp,greedy",{'cubic': 77},77
+0946_D,https://codeforces.com/contest/946/problem/D,2,256,447,25,9,6,0,2,1,0,0,dp,{'cubic': 8},8
+0071_E,https://codeforces.com/contest/71/problem/E,1,256,534,14,18,11,0,0,0,0,0,"bitmasks,dp",{'np': 2},2
+0165_E,https://codeforces.com/contest/165/problem/E,4,256,297,68,14,5,0,0,0,1,0,"bitmasks,brute force,dfs and similar,dp",{'np': 5},5
+0285_D,https://codeforces.com/contest/285/problem/D,3,256,351,28,11,8,1,0,0,0,0,"bitmasks,combinatorics,dp,implementation,meet-in-the-middle",{'np': 3},3
+0449_D,https://codeforces.com/contest/449/problem/D,2,256,200,47,11,6,0,0,0,1,0,"bitmasks,combinatorics,dp",{'np': 3},3
+0453_B,https://codeforces.com/contest/453/problem/B,4,256,201,27,0,4,0,1,0,0,0,"bitmasks,brute force,dp",{'np': 1},1
+0476_B,https://codeforces.com/contest/476/problem/B,1,256,423,39,53,2,0,0,0,0,0,"bitmasks,brute force,combinatorics,dp,math,probabilities",{'np': 80},80
+0504_D,https://codeforces.com/contest/504/problem/D,2,256,374,34,1,4,0,0,1,0,0,bitmasks,{'np': 9},9
+0510_D,https://codeforces.com/contest/510/problem/D,2,256,403,65,9,7,0,1,0,0,0,"bitmasks,brute force,dp,math",{'np': 8},8
+0512_B,https://codeforces.com/contest/512/problem/B,2,256,403,65,9,7,0,1,0,0,0,"data structures,dp,math,number theory,shortest paths",{'np': 5},5
+0513_B1,https://codeforces.com/contest/513/problem/B1,2,256,225,27,1,5,0,1,0,0,0,brute force,{'np': 3},3
+0513_B2,https://codeforces.com/contest/513/problem/B2,2,256,225,27,1,5,0,1,0,0,0,"bitmasks,divide and conquer,math",{'np': 7},7
+0513_C,https://codeforces.com/contest/513/problem/C,2,256,508,54,13,6,1,0,0,0,0,"bitmasks,probabilities",{'np': 2},2
+0547_C,https://codeforces.com/contest/547/problem/C,2,256,332,33,3,7,2,0,0,0,0,"bitmasks,combinatorics,dp,math,number theory",{'np': 2},2
+0550_B,https://codeforces.com/contest/550/problem/B,2,256,353,45,4,8,1,0,0,1,0,"bitmasks,brute force",{'np': 95},95
+0580_D,https://codeforces.com/contest/580/problem/D,2,256,478,43,9,9,0,0,0,0,0,"bitmasks,dp",{'np': 3},3
+0581_D,https://codeforces.com/contest/581/problem/D,1,256,434,29,3,8,0,0,0,0,0,"bitmasks,brute force,constructive algorithms,geometry,implementation,math",{'np': 12},12
+0678_E,https://codeforces.com/contest/678/problem/E,2,256,337,30,5,5,1,0,0,0,0,"bitmasks,dp,math,probabilities",{'np': 5},5
+0792_D,https://codeforces.com/contest/792/problem/D,3,256,524,26,7,10,0,0,0,0,1,"bitmasks,trees",{'np': 20},20
+0803_F,https://codeforces.com/contest/803/problem/F,2,256,221,51,5,2,0,0,0,1,0,"bitmasks,combinatorics,number theory",{'np': 14},14
+1038_F,https://codeforces.com/contest/1038/problem/F,2,256,278,28,2,4,0,1,0,0,0,"dp,strings",{'np': 1},1
+1051_D,https://codeforces.com/contest/1051/problem/D,2,256,192,19,0,5,1,0,1,0,0,"bitmasks,dp",{'np': 34},34
+1185_F,https://codeforces.com/contest/1185/problem/F,4,256,486,149,7,4,0,0,0,2,0,"bitmasks,brute force",{'np': 1},1
+1288_D,https://codeforces.com/contest/1288/problem/D,5,512,261,53,8,8,2,0,0,0,0,"binary search,bitmasks,dp",{'np': 66},66
+1430_G,https://codeforces.com/contest/1430/problem/G,2,1024,449,88,11,9,1,0,0,0,0,"bitmasks,dfs and similar,dp,flows,graphs,math",{'np': 1},1
+1463_F,https://codeforces.com/contest/1463/problem/F,4,256,136,24,7,7,2,0,0,0,1,"bitmasks,dp,math",{'np': 22},22
+1468_L,https://codeforces.com/contest/1468/problem/L,2,512,322,53,1,7,0,0,0,0,0,"binary search,greedy,math,number theory",{'np': 5},5
+1476_E,https://codeforces.com/contest/1476/problem/E,2,256,498,39,3,7,1,0,0,2,0,"bitmasks,data structures,dfs and similar,graphs,hashing,sortings,strings",{'np': 35},35
+1550_E,https://codeforces.com/contest/1550/problem/E,3,256,368,35,4,7,2,0,0,0,0,"binary search,bitmasks,brute force,dp,strings,two pointers",{'np': 15},15
